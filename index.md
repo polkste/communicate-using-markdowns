@@ -1,11 +1,22 @@
 ## General Markdowns: 
-#### - '.md' in file extension = 'markdown' (in GitHub 'syntax')
-#### - Basic writing and formatting syntax:
-#### - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+#### '.md' in file extension = 'markdown' (in GitHub 'syntax')
+#### https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+## Writing on Github (as of 06/08/2022)
+#### https://docs.github.com/en/get-started/writing-on-github
+#### other markdowns (not demostrated):
+###### - tables
+###### - collapsed sections
+###### - highlighted code blocks
+###### - diagrams
+###### - mathematical expressions
+###### - references and urls
+###### - attaching files
+###### - permenant links to code snippet
+###### - using keywords in issues and pull requests
 ## Header Styles:
-#### - Hashtag indicates the header style
-#### - Number of hashtags = specifc header style
-## Task lists (non-interactive):
+#### Hashtag indicates the header style
+#### Number of hashtags = specifc header style
+## Task Lists (non-interactive):
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
