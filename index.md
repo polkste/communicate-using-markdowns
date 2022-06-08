@@ -1,16 +1,23 @@
-# Header Style 1: 
-# NOTE: '.md' indicates 'markdown'
-# Basic writing and formatting syntax can be found at
-# https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-## Header Style 2:
-## - There are six header styles
-## - Hashtag indicates the header style
-## - Number of hashtags = specifc header style
-### Header style 3: Example 1
-### Header style 3: Example 2
-#### Header Style 4: Example 1
-#### Header Style 4: Example 2
-##### Header Style 5: Example 1
-##### Header Style 5: Example 2
-###### Header Style 6: Example 1
-###### Header Style 6: Example 2
+## General Markdowns: 
+#### - '.md' in file extension = 'markdown' (in GitHub 'syntax')
+#### - Basic writing and formatting syntax:
+#### - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+## Header Styles:
+#### - Hashtag indicates the header style
+#### - Number of hashtags = specifc header style
+## Task lists (non-interactive):
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+## Code blocks:
+#### - generally created with triple single quotes (like string literal in python)
+#### - some code blocks are rendered differently based upon language i.e. JavaScript or command-line text
+#### - code blocks example:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+## Images:
+#### - Exclamation indicates image 
+#### - text within brackets is read for those with screen readers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
